@@ -1,0 +1,24 @@
+{
+    "name": "resume",
+    "version": "1.0.0",
+    "description": "",
+    "main": "script.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "scss": "node-sass ==watch styles.scss styles.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anagtz82/resume.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/anagtz82/resume/issues"
+    },
+    "homepage": "https://github.com/anagtz82/resume#readme",
+    "dependencies": {
+        "node-sass": "^4.7.2"
+    }
+}
